@@ -2,3 +2,4 @@ i am creating this file in ubuntu virtual machine in my home.
 
 i am updating this line from this virtual machine of lenovo pc.
 now i am trying to add this line after that ill use commit -a to add and -m for message "message " 
+successfully used git commit -am "message " command to add and commit with message and it worked for me 
